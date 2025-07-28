@@ -31,16 +31,6 @@ Dados Históricos - Ibovespa - 20 anos.csv -- Base de dados que contempla dados 
  - Respeito total à natureza temporal dos dados (sem shuffle).
  - Foco em aplicação realista no contexto de fundos quantitativos.
 
-## Próximos Passos
-
- - Testar modelos alternativos: XGBoost, LSTM
- - Incluir features técnicas:
-   - Médias móveis (ex: SMA de 5, 10 e 20 dias)
-   - RSI (Relative Strength Index) para identificar sobrecompra/sobrevenda
-   - Bandas de Bollinger para medir volatilidade e reversão de tendência
- - Automatizar ingestão de dados com coleta via API/scraping
- - Criar dashboard interativo para visualização dos resultados
-
 ## Referências
 
 Dados: Investing.com - Histórico do Ibovespa
