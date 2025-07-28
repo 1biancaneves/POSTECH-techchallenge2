@@ -20,7 +20,7 @@ Este repositório apresenta uma solução completa desenvolvida para a Fase 2 do
 
 eda_ibovespa.py -- Análise exploratória dos dados (EDA) com insights visuais
 
-predict_model_ibovespa.py -- Script com o modelo Random Forest para prever a tendência do dia seguinte
+Teste_predição_bovespa.ipynb -- Script com o modelo Random Forest para prever a tendência do dia seguinte. Criado na ferramenta GoogleColab.
 
 Dados Históricos - Ibovespa - 20 anos.csv -- Base de dados que contempla dados de 27/06/2005 até 25/07/2025 (20 anos)
 
@@ -44,7 +44,9 @@ Dados Históricos - Ibovespa - 20 anos.csv -- Base de dados que contempla dados 
 ## Referências
 
 Dados: Investing.com - Histórico do Ibovespa
+
 Documentação Scikit-learn: https://scikit-learn.org
+
 Documentação pandas: https://pandas.pydata.org
 
 
