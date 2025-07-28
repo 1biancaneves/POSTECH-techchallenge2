@@ -18,7 +18,7 @@ Este repositório apresenta uma solução completa desenvolvida para a Fase 2 do
 
 ## Estrutura dos Arquivos
 
-eda_ibovespa.py -- Análise exploratória dos dados (EDA) com insights visuais
+POSTECH_eda_Ibovespa.ipynb -- Análise exploratória dos dados (EDA) com insights visuais
 
 Teste_predição_bovespa.ipynb -- Script com o modelo Random Forest para prever a tendência do dia seguinte. Criado na ferramenta GoogleColab.
 
